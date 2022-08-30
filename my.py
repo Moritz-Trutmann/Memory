@@ -1,1 +1,1 @@
-print(loser)
+print("loser")
